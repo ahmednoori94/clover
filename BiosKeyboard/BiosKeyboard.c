@@ -1568,11 +1568,11 @@ CONVERT_TABLE_ENTRY mConvertTable[] = {
     SCAN_PAGE_UP
   },
   {
-    0x4b,
+    0x30,
     SCAN_LEFT
   },
   {
-    0x4d,
+    0x2e,
     SCAN_RIGHT
   },
   {
